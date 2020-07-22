@@ -19,8 +19,10 @@ And lastly, assuming that your php runs under default port:
 Go to the url and rum localhost/"foldername you created under C:\xampp\htdocs"
 
 Changelles:
+Setting up mongo with PHP as I decided to use cloud instance as I was using php 7.4.8 and decided to downgrade to 7.3.20.
 
-Recorded time:
+Recorded time: 
+34 hours as I spend time to reseach about my setup
 
 Thank you
 
